@@ -21,10 +21,10 @@
 * [Fujitsu]()
 
 <!-- Tables -->
-| Name     | Account         | Values          |
-| ----     | --------------- | --------------  |
-| [Vanguards - General Atomics](https://retirementplans.vanguard.com/VGApp/pe/PublicHome#/) |  |
-| [Total Access - Boeing VIP](https://securelogon-preprod.boeing.com/login/secure_logon.html)|  |
-| [Ericsson]()            |  |
-| [Palomar Products - ](https://invest.ameritrade.com/grid/p/login) |  |
-| [Fujitsu]()             |  |
+| Name              | Company             | Account         | Values          | Misc            |
+| ----------------- | ------------------- | --------------- | --------------- | --------------  |
+| Vanguards         |[General Atomics](https://retirementplans.vanguard.com/VGApp/pe/PublicHome#/)|  |  | |
+| Total Access      |[Boeing VIP](https://securelogon-preprod.boeing.com/login/secure_logon.html)|  |  | |
+| Ericsson          |[Ericsson]()        |                 |                 |                 |
+| TD Ameritrade IRA |[Palomar Products](https://invest.ameritrade.com/grid/p/login) | |  | |
+| Fujitsu           |[Fujitsu]()         |                 |                 | |
