@@ -6,7 +6,7 @@ mkdir -p ~/projects/markdown/test-markdown
 cd ~/projects/markdown/test-markdown
 
 git config --global user.email "narethi@yahoo.com"
- git config --global user.name "Nareth Im"
+git config --global user.name "Nareth Im"
 
 ~~~
 
