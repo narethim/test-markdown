@@ -16,7 +16,7 @@
 
 * [Vanguards - General Atomics](https://retirementplans.vanguard.com/VGApp/pe/PublicHome#/)
 * [Total Access - Boeing VIP](https://securelogon-preprod.boeing.com/login/secure_logon.html)
-* [Ericsson]()
+* [Ericsson](http://www.retireonline.com)
 * [Palomar Products - ]()
 * [Fujitsu]()
 
@@ -25,6 +25,6 @@
 | ----------------- | ------------------- | --------------- | --------------- | --------------  |
 | General Atomics   |[Vanguards](https://retirementplans.vanguard.com/VGApp/pe/PublicHome#/)|  |  | |
 | Boeing VIP        |[Total Access](https://securelogon-preprod.boeing.com/login/secure_logon.html)|  |  | |
-| Ericsson          |[Ericsson (?)]()        |                 |                 |                 |
+| Ericsson          |[Ericsson (?)](http://www.retireonline.com)        |                 |                 |                 |
 | Palomar Products  |[TD Ameritrade (IRA)](https://invest.ameritrade.com/grid/p/login) | |  | |
-| Fujitsu           |[Fujitsu (?)]()         |                 |                 | |
+| Fujitsu           |[Fujitsu (?)](http://mylife.newyorklife.com)         |                 |                 | |
